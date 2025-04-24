@@ -1,2 +1,4 @@
 # demo
-this learning of git and github
+this is  learning of git and github
+<br>
+Author->Anurag Panchal
